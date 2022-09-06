@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.faouzi.webapp.EmployeeControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.979 sec <<< FAILURE! - in com.faouzi.webapp.EmployeeControllerTest
+com.faouzi.webapp.EmployeeControllerTest.testGetEmployees()  Time elapsed: 0.972 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.faouzi.webapp.EmployeeControllerTest.testGetEmployees(EmployeeControllerTest.java:25)
+

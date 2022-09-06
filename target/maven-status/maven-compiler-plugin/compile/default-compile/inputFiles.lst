@@ -1,0 +1,6 @@
+/var/lib/jenkins/workspace/webapp/src/main/java/com/faouzi/webapp/WebappApplication.java
+/var/lib/jenkins/workspace/webapp/src/main/java/com/faouzi/webapp/controller/EmployeeController.java
+/var/lib/jenkins/workspace/webapp/src/main/java/com/faouzi/webapp/model/Employee.java
+/var/lib/jenkins/workspace/webapp/src/main/java/com/faouzi/webapp/CustomProperties.java
+/var/lib/jenkins/workspace/webapp/src/main/java/com/faouzi/webapp/service/EmployeeService.java
+/var/lib/jenkins/workspace/webapp/src/main/java/com/faouzi/webapp/repository/EmployeeProxy.java
